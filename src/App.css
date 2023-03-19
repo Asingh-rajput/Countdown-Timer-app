@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  height: 400px;
+  width: 800px;
+  background: #00ffff;
+  border: 4px solid #0d1001;
+  margin: auto;
+  margin-top: 100px;
+  box-shadow: 8px 12px 16px 20px;
+}
+
+#current-time{
+
+font-size: 40px;
+font-weight: bolder;
+border: 2px solid rgb(8, 1, 16) ;
+width: 100px;
+margin:auto ;
+margin-top: 40px;
+border-radius: 100px;
+background: #d2fc00;
+color: rgb(253, 3, 53);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#timeCount{
+  font-size: 30px;
+  border: 5px solid rgb(255, 115, 0);
+  border-radius: 5px;
+  box-shadow: 5px 7px 9px 11px;
+  font-weight: bold;
+  
+  
+}
+
+.heading{
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Rampart One', cursive;
+color: rgb(17, 0, 255);
+}
